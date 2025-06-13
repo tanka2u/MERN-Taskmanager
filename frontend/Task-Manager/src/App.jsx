@@ -26,7 +26,7 @@ const App = () => {
             <Route path='/admin/dashboard' element= {<Dashboard />}/>
             <Route path='/admin/tasks' element= {<ManageTasks />}/>
             <Route path='/admin/create-task' element= {<CreateTask />}/>
-            <Route path='/admin/user' element= {<ManageUsers />}/>
+            <Route path='/admin/users' element= {<ManageUsers />}/>
           </Route>
 
           {/*User Roles*/}
