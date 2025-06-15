@@ -195,11 +195,3 @@ This README provides a comprehensive overview of your project, including:
 5. API documentation
 6. Configuration details
 7. Usage instructions
-
-You can customize it further by adding:
-- Screenshots of your application
-- Demo video/gif
-- More detailed setup instructions if needed
-- Deployment instructions
-- Testing information
-- Roadmap/future features
